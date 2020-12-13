@@ -7,7 +7,7 @@ permalink: /about/
 Hej!
 
 I'm a self-taught software engineer with 10+ years of experience.
-I've worked with Go, Python, Ruby, Objective-C, TypeScript and PHP. But Go and Python are favourites.
+I've worked with Go, Python, Ruby, Objective-C, TypeScript and PHP. But Go and Python are my favourites.
 
 This is a safe space where I write about tech, career, time management, and whatever else I feel like.
 
